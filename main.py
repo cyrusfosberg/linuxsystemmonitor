@@ -75,7 +75,7 @@ def uptime():
 
     print(f"Uptime: {uptime_string}")
 
-print("\n=====   SYSTEM STATUS   =====\n")
+print("\n=======     SYSTEM STATUS     =======\n")
 cpu()
 ram()
 print("")
@@ -84,4 +84,4 @@ print("")
 uptime()
 print("\nDisk Usage: ")
 disk()
-print("\n=============================")
+print("\n=====================================")
